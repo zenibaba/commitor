@@ -211,7 +211,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 
 ## ❤️ Credits
-bachod
+bachodisd
 
 Made with ❤️ by **Aura Farmer**  
 If you find this project useful, consider giving it a ⭐ on GitHub!
